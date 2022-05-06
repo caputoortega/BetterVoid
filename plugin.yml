@@ -1,0 +1,7 @@
+name: BetterVoid
+author: Bernard Caputo (a.k.a bernardMC)
+version: 1.0
+description: |
+  A better void behaviour!
+main: ar.com.caputo.bettervoid.Core
+api-version: 1.18
